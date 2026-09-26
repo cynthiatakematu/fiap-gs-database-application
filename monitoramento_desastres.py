@@ -1,4 +1,4 @@
-#Nome: Cynthia Emiko de Soua Takematu RM: 564100 (REPRESENTANTE)
+#Nome: Cynthia Emiko de Souza Takematu RM: 564100 (REPRESENTANTE)
 #Nome: Gabriel Scaraficci de Lima RM: 563739
 
 #1. Entrada de Dados:
